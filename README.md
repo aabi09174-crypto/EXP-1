@@ -40,7 +40,7 @@ a. KVL:<img width="720" height="1280" alt="KVL CALCULATION 1" src="https://githu
 <img width="1148" height="901" alt="KVL CALCULATION 2" src="https://github.com/user-attachments/assets/8f38bccd-0ed6-4bc8-a272-1785627bb0fc" />
 b.  KCL:<img width="720" height="1280" alt="KCL CALCULAATION 1" src="https://github.com/user-attachments/assets/e9d72364-7a11-48ff-8ce6-5cee3770f961" />
 <img width="720" height="1280" alt="KCL CALCULATION 2" src="https://github.com/user-attachments/assets/28a88b1e-5703-41bf-8aca-e38984884ad2" />
-<img width="720" height="189" alt="KCL CALCULATION 3" src="https://github.com/user-attachments/assets/2d62b5c5-5d8a-468a-a071-0a29ca88bbbd" />
+<img width="720" height="189" alt="KCL CALCULATION 3" src="https://github.com/user-attachments/assets/99c19682-6e85-4770-8ccb-8b8cb69d318e" />
 Tabulation:
 a.KVL:<img width="1148" height="420" alt="KVL TABULATION" src="https://github.com/user-attachments/assets/743f0c86-dd14-458e-8201-57474161295c" />
 b.KCL:<img width="1148" height="322" alt="KCL TABULAATION" src="https://github.com/user-attachments/assets/c7da7b9e-cbe4-4ede-994a-c671d40f1be7" />
